@@ -1,2 +1,2 @@
-Three Way Authentication using Bcrypt, HOTP and TOTP \n
+Three Way Authentication using Bcrypt, HOTP and TOTP.
 Database used: MySQL
